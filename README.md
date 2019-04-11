@@ -25,4 +25,4 @@ Write an example for updatable result set.
 How to insert an image into database table? or Write an example for inserting BLOB into table.
 How to read an image from database table? or Write an example for reading BLOB from table.
 What is DatabaseMetaData? Write an example code.
-set1-gitcode https://github.com/vishalgrg/SDET-Java-hibernate-spring-tutorials-set2.git
+
